@@ -1,0 +1,33 @@
+Project	Status	Title	Body	Estimate_GBP	Notes	Labels	Item_Type	Section_Order	Project_Subtotal_ex_VAT_GBP	Project_VAT_GBP	Project_Total_inc_VAT_GBP
+Kitchen Works	Todo	Strip existing floor and wall tiles, old skirting, and architrave	Remove customer's existing tiles on floor and walls, including old skirting and architrave.	240		kitchen-works	Task	1	3570	714	4284
+Kitchen Works	Todo	Prep and PVA ceiling and walls	Prep and PVA ceiling and all walls. Bond out all chases made by electrician and any disturbance from tiles. Supply and fit new skim beads. Skim ceiling and walls.	800		kitchen-works	Task	2	3570	714	4284
+Kitchen Works	Todo	Self-level floor ready for electric matting	Once floor tiles are up, self-level floor ready to install electric matting.	160		kitchen-works	Task	3	3570	714	4284
+Kitchen Works	Todo	Fit customer-supplied kitchen floor tiles and grout	Fit customer's supplied tiles to kitchen floor, supplying all adhesive and spacers. Grout once dried, supplying all grout required.	660	Price based on 600x600 tiles. Smaller tiles may incur additional cost.	kitchen-works	Task	4	3570	714	4284
+Kitchen Works	Todo	Drill 4-inch core hole and fit external vent grill	Drill 4-inch core hole through brickwork, supplying black or white external vent grill.	155		kitchen-works	Task	5	3570	714	4284
+Kitchen Works	Todo	Disconnect and reconnect new washing machine	Disconnect and reconnect new washing machine to cold supply and run in all new wastes.	40	Minor rearrangement of cold supply and wastes may be required for integrated machine and could add cost.	kitchen-works	Task	6	3570	714	4284
+Kitchen Works	Todo	Disconnect and reconnect new dishwasher	Disconnect and reconnect new dishwasher, supplying new isolation valve in sink unit.	40		kitchen-works	Task	7	3570	714	4284
+Kitchen Works	Todo	Fit customer's new integrated dryer and fit door	Fit customer's new integrated dryer and fit door.	60	If freestanding, this price may be cheaper.	kitchen-works	Task	8	3570	714	4284
+Kitchen Works	Todo	Disconnect and reconnect gas hob with gas test certificate	Gas Safe engineer to disconnect and reconnect gas hob. Includes any new pipework for new location and a gas test only certificate after works completed.	220		kitchen-works	Task	9	3570	714	4284
+Electrics	Todo	Disconnect all appliances and make safe	Disconnect all appliances and make safe.	50		electrics	Task	1	1195		
+Electrics	Todo	Install 4 new white LED ceiling spotlights	Supply, wire and install 4 new white LED spot lights in ceiling.	300		electrics	Task	2	1195		
+Electrics	Todo	Install new condensation/humidity fan with isolation spur	Supply, wire and install new condensation/humidity fan with isolation spur switch.	190		electrics	Task	3	1195		
+Electrics	Todo	Chase in two double sockets above worktop	Chase in two double sockets as discussed above worktop.	100		electrics	Task	4	1195		
+Electrics	Todo	Install new fridge single socket	Supply, wire and install new fridge single socket.	75		electrics	Task	5	1195		
+Electrics	Todo	Install new double socket for Quooker tap	Supply, wire and install new double socket for Quooker tap.	75		electrics	Task	6	1195		
+Electrics	Todo	Install new socket for dryer	Supply, wire and install new socket for dryer.	75		electrics	Task	7	1195		
+Electrics	Todo	Move oven spur into unit	Move oven spur into unit.	50		electrics	Task	8	1195		
+Electrics	Todo	Connect extractor hood, washing machine, dishwasher, and hob	Connect new extractor hood, washing machine, dishwasher and hob. Includes all new works to suit new kitchen layout, all fitted with new socket fronts.	180		electrics	Task	9	1195		
+Electrics	Todo	Provide minor works electrical certificate	Provide minor works electrical certificate for all works completed.	100		electrics	Task	10	1195		
+Underfloor Heating Option 1	Todo	Install 6mm insulation board	Supply and fit 6mm insulation board.		Option total covers all items below.	underfloor-heating-option-1	Task	1	1395	279	1674
+Underfloor Heating Option 1	Todo	Supply adhesive and primer	Supply adhesive and primer for insulation board and floor prep.			underfloor-heating-option-1	Task	2	1395	279	1674
+Underfloor Heating Option 1	Todo	Install 7sqm ProWarm electric matting	Supply roughly 7sqm of ProWarm electric matting with all controls and thermostats required.			underfloor-heating-option-1	Task	3	1395	279	1674
+Underfloor Heating Option 1	Todo	Install Heatmiser thermostat and probe sensor	Supply and fit white LED touch screen Heatmiser thermostat with heating probe sensor, 5–35 degree temperature range and fully programmable schedule.			underfloor-heating-option-1	Task	4	1395	279	1674
+Underfloor Heating Option 1	Todo	Install separate isolation fused spur	Supply and fit separate isolation fused spur.			underfloor-heating-option-1	Task	5	1395	279	1674
+Underfloor Heating Option 1	Todo	Cover matting with self-levelling compound	Installation of matting covered by a self-levelling compound to protect cables.			underfloor-heating-option-1	Task	6	1395	279	1674
+Underfloor Heating Option 2	Todo	Install 10sqm Warmup DCM-PRO decoupling mat	Supply and fit 1 roll of 10sqm Warmup DCM-PRO decoupling mat.		Option total covers all items below.	underfloor-heating-option-2	Task	1	1720	344	2064
+Underfloor Heating Option 2	Todo	Install 7sqm DCM-PRO loose heating cable	Supply and fit 7sqm of DCM-PRO loose heating cable.			underfloor-heating-option-2	Task	2	1720	344	2064
+Underfloor Heating Option 2	Todo	Supply adhesive and primer	Supply adhesive and primer.			underfloor-heating-option-2	Task	3	1720	344	2064
+Underfloor Heating Option 2	Todo	Install thermostat, controls, and heating probe sensor	Supply and fit thermostat, all controls, and heating probe sensor.			underfloor-heating-option-2	Task	4	1720	344	2064
+Underfloor Heating Option 2	Todo	Install separate isolation fused spur	Supply and fit separate isolation fused spur.			underfloor-heating-option-2	Task	5	1720	344	2064
+Rubbish	Todo	Arrange waste collection man	All rubbish to be left onsite for a waste collection man to collect.	130-400	Estimate only.	rubbish	Task	1			
+Rubbish	Todo	Arrange 8-yard skip	Arrange 1 x 8 yard skip.	220-290	Estimate only.	rubbish	Task	2			
