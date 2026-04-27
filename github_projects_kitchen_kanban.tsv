@@ -18,16 +18,16 @@ Kieran	Electrics	Todo	Install new socket for dryer	Supply, wire and install new 
 Kieran	Electrics	Todo	Move oven spur into unit	Move oven spur into unit.	50		electrics	Task	8	1195		
 Kieran	Electrics	Todo	Connect extractor hood, washing machine, dishwasher, and hob	Connect new extractor hood, washing machine, dishwasher and hob. Includes all new works to suit new kitchen layout, all fitted with new socket fronts.	180		electrics	Task	9	1195		
 Kieran	Electrics	Todo	Provide minor works electrical certificate	Provide minor works electrical certificate for all works completed.	100		electrics	Task	10	1195		
-Underfloor Heating Option 1	Todo	Install 6mm insulation board	Supply and fit 6mm insulation board.		Option total covers all items below.	underfloor-heating-option-1	Task	1	1395	279	1674
-Underfloor Heating Option 1	Todo	Supply adhesive and primer	Supply adhesive and primer for insulation board and floor prep.			underfloor-heating-option-1	Task	2	1395	279	1674
-Underfloor Heating Option 1	Todo	Install 7sqm ProWarm electric matting	Supply roughly 7sqm of ProWarm electric matting with all controls and thermostats required.			underfloor-heating-option-1	Task	3	1395	279	1674
-Underfloor Heating Option 1	Todo	Install Heatmiser thermostat and probe sensor	Supply and fit white LED touch screen Heatmiser thermostat with heating probe sensor, 5–35 degree temperature range and fully programmable schedule.			underfloor-heating-option-1	Task	4	1395	279	1674
-Underfloor Heating Option 1	Todo	Install separate isolation fused spur	Supply and fit separate isolation fused spur.			underfloor-heating-option-1	Task	5	1395	279	1674
-Underfloor Heating Option 1	Todo	Cover matting with self-levelling compound	Installation of matting covered by a self-levelling compound to protect cables.			underfloor-heating-option-1	Task	6	1395	279	1674
-Underfloor Heating Option 2	Todo	Install 10sqm Warmup DCM-PRO decoupling mat	Supply and fit 1 roll of 10sqm Warmup DCM-PRO decoupling mat.		Option total covers all items below.	underfloor-heating-option-2	Task	1	1720	344	2064
-Underfloor Heating Option 2	Todo	Install 7sqm DCM-PRO loose heating cable	Supply and fit 7sqm of DCM-PRO loose heating cable.			underfloor-heating-option-2	Task	2	1720	344	2064
-Underfloor Heating Option 2	Todo	Supply adhesive and primer	Supply adhesive and primer.			underfloor-heating-option-2	Task	3	1720	344	2064
-Underfloor Heating Option 2	Todo	Install thermostat, controls, and heating probe sensor	Supply and fit thermostat, all controls, and heating probe sensor.			underfloor-heating-option-2	Task	4	1720	344	2064
-Underfloor Heating Option 2	Todo	Install separate isolation fused spur	Supply and fit separate isolation fused spur.			underfloor-heating-option-2	Task	5	1720	344	2064
-Rubbish	Todo	Arrange waste collection man	All rubbish to be left onsite for a waste collection man to collect.	130-400	Estimate only.	rubbish	Task	1			
-Rubbish	Todo	Arrange 8-yard skip	Arrange 1 x 8 yard skip.	220-290	Estimate only.	rubbish	Task	2			
+Naim	Underfloor Heating Option 1	Todo	Install 6mm insulation board	Supply and fit 6mm insulation board.		Option total covers all items below.	underfloor-heating-option-1	Task	1	1395	279	1674
+Naim	Underfloor Heating Option 1	Todo	Supply adhesive and primer	Supply adhesive and primer for insulation board and floor prep.			underfloor-heating-option-1	Task	2	1395	279	1674
+Naim	Underfloor Heating Option 1	Todo	Install 7sqm ProWarm electric matting	Supply roughly 7sqm of ProWarm electric matting with all controls and thermostats required.			underfloor-heating-option-1	Task	3	1395	279	1674
+Naim	Underfloor Heating Option 1	Todo	Install Heatmiser thermostat and probe sensor	Supply and fit white LED touch screen Heatmiser thermostat with heating probe sensor, 5–35 degree temperature range and fully programmable schedule.			underfloor-heating-option-1	Task	4	1395	279	1674
+Naim	Underfloor Heating Option 1	Todo	Install separate isolation fused spur	Supply and fit separate isolation fused spur.			underfloor-heating-option-1	Task	5	1395	279	1674
+Naim	Underfloor Heating Option 1	Todo	Cover matting with self-levelling compound	Installation of matting covered by a self-levelling compound to protect cables.			underfloor-heating-option-1	Task	6	1395	279	1674
+Naim	Underfloor Heating Option 2	Todo	Install 10sqm Warmup DCM-PRO decoupling mat	Supply and fit 1 roll of 10sqm Warmup DCM-PRO decoupling mat.		Option total covers all items below.	underfloor-heating-option-2	Task	1	1720	344	2064
+Naim	Underfloor Heating Option 2	Todo	Install 7sqm DCM-PRO loose heating cable	Supply and fit 7sqm of DCM-PRO loose heating cable.			underfloor-heating-option-2	Task	2	1720	344	2064
+Naim	Underfloor Heating Option 2	Todo	Supply adhesive and primer	Supply adhesive and primer.			underfloor-heating-option-2	Task	3	1720	344	2064
+Naim	Underfloor Heating Option 2	Todo	Install thermostat, controls, and heating probe sensor	Supply and fit thermostat, all controls, and heating probe sensor.			underfloor-heating-option-2	Task	4	1720	344	2064
+Naim	Underfloor Heating Option 2	Todo	Install separate isolation fused spur	Supply and fit separate isolation fused spur.			underfloor-heating-option-2	Task	5	1720	344	2064
+Sarang  Rubbish	Todo	Arrange waste collection man	All rubbish to be left onsite for a waste collection man to collect.	130-400	Estimate only.	rubbish	Task	1			
+Sarang  Rubbish	Todo	Arrange 8-yard skip	Arrange 1 x 8 yard skip.	220-290	Estimate only.	rubbish	Task	2			
